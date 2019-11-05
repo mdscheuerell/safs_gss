@@ -1,9 +1,9 @@
 # SAFS 30th Annual Graduate Student Symposium
 
-14 November 2019
-9:00 AM - 5:00 PM
-Anderson Hall
-University of Washington
+14 November 2019  
+9:00 AM - 5:00 PM  
+Anderson Hall  
+University of Washington  
 
 This year marks the 30th anniversary of the SAFS Graduate Student Symposium. To mark the occasion, the student organizers solicitied proposals for workshops that would offer students something that they might not otherwise receive as part of their regular coursework at SAFS.
 
