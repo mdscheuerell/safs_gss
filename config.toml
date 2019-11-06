@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = ""
 languageCode = "en-AU"
-title = "GSS"
+title = "SAFS GSS Panel"
 
 # Metadata
 [params]
@@ -59,7 +59,7 @@ title = "GSS"
     name = "timing"
     title = "Date & time"
     subtitle = ""
-    description = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> 22 Anderson Hall<p>The panel discussion will occur during the midday break from oral presentations.</p>"
+    description = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> Rm 207 Anderson Hall<p>The panel discussion will occur during the midday break from oral presentations. Please note that lunch will be provided for panel members and those SAFS grad students who registered for the event. Others are welcome to attend as well, space permitting.</p>"
 
 # Team section
 [params.team]
