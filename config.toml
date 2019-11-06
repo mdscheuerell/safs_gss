@@ -147,7 +147,7 @@ title = "SAFS GSS"
 [params.team]
   enable = true
   title = "Meet the panel"
-  description = "These panelists have diverse backgrounds and experiences in scientific research and communication."
+  description = ""
 
   [[params.team.item]]
     name = "Dr. Neala Kendall"
@@ -188,7 +188,7 @@ title = "SAFS GSS"
   [[params.team.item]]
     name = "Ms. Jennifer Scheuerell"
     position = "Sound Data Management"
-    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering, focusing largely on energy efficiency and fish tracking. Her business specializes in developing \"front to back\" solutions for their clients using a wide range of software and hardware. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
+    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions for their clients using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO) and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
     img = "images/jennifer.jpg"
     telephone = "206-406-9455"
     email = "jennifer@sound-data.com"
@@ -200,7 +200,7 @@ title = "SAFS GSS"
   [[params.team.item]]
     name = "Dr. Amanda Stanley"
     position = "COMPASS"
-    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership in mission, vision, and strategy. She supports their staff to excel as coaches, connectors, and conversation changers, as they work together to empower scientists to engage in the public discourse on the environment. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, directing the foundation's efforts to provide science capacity to grantees and partners, empowering scientists to engage in management and policy, and ensuring that decisions are made with the best available science. Amanda received her PhD in Zoology from the University of Washington."
+    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership to scientists effectively share their knowledge in public discourse and decision-making. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, directing the foundation's efforts to provide science capacity to grantees and partners, empowering scientists to engage in management and policy, and ensuring that decisions are made with the best available science. Amanda received her PhD in Zoology from the University of Washington."
     img = "images/amanda.jpg"
     email = ""
     telephone = ""
@@ -236,7 +236,7 @@ title = "SAFS GSS"
   [[params.team.item]]
     name = "Dr. Mark Scheuerell"
     position = "Moderator"
-    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences. Mark’s research interests lie at the intersection of ecology and management. He is broadly interested in the roles of natural and anthropogenic drivers on freshwater and coastal ecosystems, and the services we derive from them. Mark received his PhD in Zoology from the University of Washington."
+    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences, and the assistant leader of the Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). Prior to joining the WACFWRU, Mark spent 16 years as a research biologist with the National Marine Fisheries Service. He received his PhD in Zoology from the University of Washington."
     img = "images/mark.jpg"
     email = "scheuerl@uw.edu"
     telephone = "206-543-5997"
@@ -259,7 +259,7 @@ title = "SAFS GSS"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2019 Mark Scheuerell <br> Based upon the Hugo Icon theme by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  note = "<p><small>&copy; 2019 Mark Scheuerell <br> Based upon the Hugo Icon theme by <a href='https://github.com/SteveLane/' target='_blank'>Steve Lane</a></small></p>"
   #github = "#"
   #twitter = "#"
   #facebook = "#"
