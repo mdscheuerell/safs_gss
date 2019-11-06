@@ -12,14 +12,14 @@ title = "SAFS GSS"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "SAFS Graduate Student Symposium"
-  description = "Panel discussion on non-academic careers in environmental science"
+  title = "A discussion about non-academic careers in environmental science"
+  description = "30<sup>th</sup>Annual Graduate Student Symposium<br>School of Aquatic and Fishery Sciences"
 
 # Navigation section
 [params.nav]
-  mission = "Background"
+  mission = "Information"
   services = "Services"
-  team = "Panelists"
+  team = "The panel"
   contact = "Get In Touch"
   # Include logo instead if HOME:
   # logo = "path/to/logo"
