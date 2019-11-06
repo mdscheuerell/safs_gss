@@ -29,14 +29,14 @@ title = "SAFS GSS"
   enable = true
 
   [params.mission.images]
-    enable = false
+    enable = true
 
     [[params.mission.images.list]]
-      img = "images/img_3.jpg"
+      img = "images/img_1.jpg"
     [[params.mission.images.list]]
       img = "images/img_2.jpg"
     [[params.mission.images.list]]
-      img = "images/img_1.jpg"
+      img = "images/img_3.jpg"
     [[params.mission.images.list]]
       img = "images/img_4.jpg"
 
@@ -146,13 +146,13 @@ title = "SAFS GSS"
 # Team section
 [params.team]
   enable = true
-  title = "Meet The Panel"
-  description = "This collection of panelists have diverse backgrounds and experiences in scientific research and communication."
+  title = "Meet the panel"
+  description = "These panelists have diverse backgrounds and experiences in scientific research and communication."
 
   [[params.team.item]]
     name = "Dr. Neala Kendall"
-    position = "Research Scientist, WA Dept Fish and Wildlife"
-    description = "Dr. Kendall leads the Statewide Quantitative Synthesis and Reporting Unit at the Washington Department of Fisheries and Wildlife, a team of scientists working on a variety of projects related to salmonid conservation and recovery. She received her PhD in Aquatic & Fishery Sciences from the University of Washington."
+    position = "Washington Department of Fish and Wildlife"
+    description = "Dr. Kendall leads the Statewide Quantitative Synthesis and Reporting Unit at the Washington Department of Fisheries and Wildlife, a team of scientists working on a variety of projects related to salmonid conservation and recovery. Neala received her PhD in Aquatic & Fishery Sciences from the University of Washington."
     img = "images/neala.jpg"
     email = "#"
     telephone = "#"
@@ -163,11 +163,11 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Melissa Poe"
-    position = "Social Scientist, WA Sea Grant"
-    description = "Dr. Poe leads the social science program at Washington Sea Grant, where she works to identify, define and incorporate measures of human well-being and cultural practices into marine planning and ecosystem-based management. She is involved in Washington Sea Grant and NOAA’s ocean acidification and climate change programs, studying how our changing seas might impact the social and cultural values of West Coast coastal and fishing communities. Melissa serves as a social science advisor to regional bodies such as the Puget Sound Partnership. Melissa advises and mentors undergraduate and graduate students who are interested in human—nature interactions and earning degrees in programs ranging from human geography, public health, anthropology to environmental studies. She received her PhD in Anthropology from the University of Washington."
+    position = "Washington Sea Grant"
+    description = "Dr. Poe leads the social science program at Washington Sea Grant, where she works to identify, define and incorporate measures of human well-being and cultural practices into marine planning and ecosystem-based management. She is involved in Washington Sea Grant and NOAA’s ocean acidification and climate change programs, studying how our changing seas might impact the social and cultural values of West Coast coastal and fishing communities. Melissa received her PhD in Anthropology from the University of Washington."
     img = "images/melissa.jpg"
-    email = "206-685-8209"
-    telephone = "mpoe@uw.edu"
+    telephone = "206-685-8209"
+    email = "mpoe@uw.edu"
     facebook = ""
     twitter = "https://twitter.com/mpoetree"
     instagram = ""
@@ -175,7 +175,7 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Beth Sanderson"
-    position = "Research Biologist, National Marine Fisheries Service"
+    position = "National Marine Fisheries Service"
     description = "Dr. Sanderson leads the Ecosystem Analysis Program at NOAA's Northwest Fisheries Science Center, where she oversees a variety of research projects related to threatened and endangered species, non-native species, and shellfish aquaculture. Beth received her PhD in Zoology from the University of Wisconsin."
     img = "images/beth.jpg"
     email = "beth.sanderson@noaa.gov"
@@ -187,11 +187,11 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Ms. Jennifer Scheuerell"
-    position = "Owner, Sound Data Management"
-    description = "Ms. Scheuerell is the owner of Sound Data Management (SDM), a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. SDM specializes in developing custom solutions for their clients using a wide range of software and hardware. She received her MS in Aquatic & Fishery Sciences from the University of Washington."
+    position = "Sound Data Management"
+    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering, focusing largely on energy efficiency and fish tracking. Her business specializes in developing \"front to back\" solutions for their clients using a wide range of software and hardware. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
     img = "images/jennifer.jpg"
-    email = "206-406-9455"
-    telephone = "jennifer@sound-data.com"
+    telephone = "206-406-9455"
+    email = "jennifer@sound-data.com"
     facebook = "#"
     twitter = "https://twitter.com/sound_data_"
     instagram = "#"
@@ -199,8 +199,8 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Amanda Stanley"
-    position = "Executive Director, COMPASS"
-    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership in mission, vision, and strategy. She supports their staff to excel as coaches, connectors, and conversation changers, as they work together to empower scientists to engage in the public discourse on the environment. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, directing the foundation's efforts to provide science capacity to grantees and partners, empowering scientists to engage in management and policy, and ensuring that decisions are made with the best available science. She received her PhD in Zoology from the University of Washington."
+    position = "COMPASS"
+    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership in mission, vision, and strategy. She supports their staff to excel as coaches, connectors, and conversation changers, as they work together to empower scientists to engage in the public discourse on the environment. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, directing the foundation's efforts to provide science capacity to grantees and partners, empowering scientists to engage in management and policy, and ensuring that decisions are made with the best available science. Amanda received her PhD in Zoology from the University of Washington."
     img = "images/amanda.jpg"
     email = ""
     telephone = ""
@@ -211,8 +211,8 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Jodie Toft"
-    position = "Deputy Director, Puget Sound Restoration Fund"
-    description = "Dr. Toft is the Deputy Director of the Puget Sound Restoration Fund, where she advances their science, expands partnerships, and builds support for their unique brand of in-water restoration. Prior to PSRF, Jodie worked at The Nature Conservancy and The Natural Capital Project. She received her PhD in Aquatic & Fishery Sciences from the University of Washington."
+    position = "Puget Sound Restoration Fund"
+    description = "Dr. Toft is the Deputy Director of the Puget Sound Restoration Fund, where she advances their science, expands partnerships, and builds support for their unique brand of in-water restoration. Prior to joining PSRF, Jodie worked at The Nature Conservancy and The Natural Capital Project. Jodie received her PhD in Aquatic & Fishery Sciences from the University of Washington."
     img = "images/jodie.jpg"
     email = ""
     telephone = ""
@@ -223,8 +223,8 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Sacha Vignieri"
-    position = "Deputy Editor, Science"
-    description = "Dr. Vignieri is a Deputy Editor at the prestigious journal <i>Science</i>... She received her PhD in Zoology from the University of Washington."
+    position = "Science Magazine"
+    description = "Dr. Vignieri is a Deputy Editor at the prestigious scientific journal <i>Science</i>, where she... Sacha received her PhD in Zoology from the University of Washington."
     img = "images/sacha.jpg"
     email = ""
     telephone = ""
@@ -236,12 +236,11 @@ title = "SAFS GSS"
   [[params.team.item]]
     name = "Dr. Mark Scheuerell"
     position = "Moderator"
-    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences. Mark’s research interests lie at the intersection of ecology and management. He is broadly interested in the roles of natural and anthropogenic drivers on freshwater and coastal ecosystems, and the services we derive from them. He received his PhD in Zoology from the University of Washington."
+    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences. Mark’s research interests lie at the intersection of ecology and management. He is broadly interested in the roles of natural and anthropogenic drivers on freshwater and coastal ecosystems, and the services we derive from them. Mark received his PhD in Zoology from the University of Washington."
     img = "images/mark.jpg"
     email = "scheuerl@uw.edu"
     telephone = "206-543-5997"
     twitter = "https://twitter.com/mark_scheuerell"
-    instagram = ""
     linkedin = "https://www.linkedin.com/in/markscheuerell/"
 
 
