@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = ""
 languageCode = "en-AU"
-title = "SAFS GSS"
+title = "GSS"
 
 # Metadata
 [params]
@@ -13,7 +13,7 @@ title = "SAFS GSS"
 [params.hero]
   img = "images/hero_bg.jpg"
   title = "An introduction to non-academic careers in environmental science"
-  description = "30<sup>th</sup>Annual Graduate Student Symposium<br>UW School of Aquatic and Fishery Sciences"
+  description = "30<sup>th</sup> Annual Graduate Student Symposium<br>UW School of Aquatic and Fishery Sciences"
 
 # Navigation section
 [params.nav]
@@ -44,22 +44,22 @@ title = "SAFS GSS"
     weight = 1
     name = "background"
     title = "background"
-    subtitle = "This moderated discusion will introduce graduate students to the spectrum of non-academic career options in environmental science."
-    description = "<p>It can be daunting for graduate students to navigate the various career options available to scientists with advanced degrees in the environmental sciences. Due to the very nature of most academic environments, most students have a pretty good idea of what it’s like to be a professor by the time they graduate, but relatively few have an equal appreciation for the array of alternative career possibilities. Furthermore, although academic careers continue to be a preferred path for some individuals, those jobs are increasingly rare and extremely competitive, and hence more graduates are pursuing non-academic careers."
+    subtitle = ""
+    description = "<p>We recognize that it can be difficult for graduate students to navigate the various career options available to scientists with advanced degrees in the environmental sciences. Due to the very nature of academic environments, most students have a pretty good idea of what it’s like to be a professor by the time they graduate, but relatively few students have an equal appreciation for the array of alternative career possibilities. Furthermore, although academic careers continue to be a preferred path for some individuals, those jobs are increasingly rare and extremely competitive, and hence more graduates are pursuing non-academic careers. This moderated discusion will therefore introduce graduate students to the spectrum of non-academic career options in environmental science, and highlight their importance to society at large."
 
   [[params.mission.item]]
     weight = 2
-    name = "timing"
-    title = "Date & time"
-    subtitle = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> 22 Anderson Hall"
-    description = "<p>The panel discussion will occur during the midday break from oral presentations.</p>"
-
-  [[params.mission.item]]
-    weight = 3
     name = "format"
     title = "Format"
     subtitle = ""
-    description = "<p>Each panelist will be given 6 minutes to describe her background, the nature of her current position, and its pros and cons. Afterward, we will have a moderated Q&A session with audience members.</p>"
+    description = "<p>Each panelist will be given 6 minutes to describe her background and the nature of her current position, including its pros and cons. Panelists are also allowed one slide that exemplifies \"a day in the life\". Afterward, we will have a moderated Q&A session with audience members.</p>"
+
+  [[params.mission.item]]
+    weight = 3
+    name = "timing"
+    title = "Date & time"
+    subtitle = ""
+    description = "<b>Date:</b> November 14, 2019<br><b>Time:</b> 11:30-12:30<br><b>Location:</b> 22 Anderson Hall<p>The panel discussion will occur during the midday break from oral presentations.</p>"
 
 # Team section
 [params.team]
@@ -103,7 +103,7 @@ title = "SAFS GSS"
   [[params.team.item]]
     name = "Ms. Jennifer Scheuerell"
     position = "Sound Data Management"
-    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions for their clients using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO) and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
+    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO) and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
     img = "images/jennifer.jpg"
     email = "jennifer@sound-data.com"
     facebook = "#"
@@ -146,7 +146,7 @@ title = "SAFS GSS"
 
   [[params.team.item]]
     name = "Dr. Mark Scheuerell"
-    position = "Moderator"
+    position = "Panel moderator"
     description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences, and the assistant leader of the Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). Prior to joining the WACFWRU, Mark spent 16 years as a research biologist with the National Marine Fisheries Service. He received his PhD in Zoology from the University of Washington."
     img = "images/mark.jpg"
     email = "scheuerl@uw.edu"
