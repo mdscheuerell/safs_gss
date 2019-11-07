@@ -78,46 +78,6 @@ title = "SAFS GSS Panel"
     website = "https://wdfw.wa.gov/species-habitats"
 
   [[params.team.item]]
-    name = "Dr. Melissa Poe"
-    position = "Washington Sea Grant"
-    description = "Dr. Poe leads the social science program at Washington Sea Grant. She works with communities to address the social and cultural dimensions of Pacific Northwest marine ecosystems with a current focus on ocean change, food systems, and integrating local and indigenous knowledge in ecosystem-based management. Melissa received her PhD in Environmental Anthropology from the University of Washington."
-    img = "images/melissa.jpg"
-    email = "mpoe@uw.edu"
-    twitter = "https://twitter.com/mpoetree"
-    linkedin = "https://www.linkedin.com/in/melissa-r-poe-033aaa2b/"
-    website = "https://wsg.washington.edu/about-wsg/staff-dir/melissa-poe/"
-
-  [[params.team.item]]
-    name = "Dr. Beth Sanderson"
-    position = "National Marine Fisheries Service"
-    description = "Dr. Sanderson leads the Ecosystem Analysis Program at NOAA's Northwest Fisheries Science Center, where she oversees a variety of research projects related to the conservation of threatened and endangered species, effects of non-native species, and use of shellfish aquaculture sites by marine fauna. Beth received her PhD in Zoology from the University of Wisconsin."
-    img = "images/beth.jpg"
-    email = "beth.sanderson@noaa.gov"
-    twitter = "https://twitter.com/SandersonBeth"
-    linkedin = "https://www.linkedin.com/in/beth-sanderson-90305a95/"
-    website = "https://www.nwfsc.noaa.gov/contact/display_staffprofile.cfm?staffid=540"
-
-  [[params.team.item]]
-    name = "Ms. Jennifer Scheuerell"
-    position = "Sound Data Management"
-    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO) and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
-    img = "images/jennifer.jpg"
-    email = "jennifer@sound-data.com"
-    twitter = "https://twitter.com/sound_data_"
-    linkedin = "https://www.linkedin.com/in/jennifer-scheuerell-45887021/"
-    website = "http://hydra3.sound-data.com/about/"
-
-  [[params.team.item]]
-    name = "Dr. Amanda Stanley"
-    position = "COMPASS"
-    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership to scientists looking to effectively share their knowledge in public discourse and decision-making. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, directing the foundation's efforts to provide science capacity to grantees and partners, empowering scientists to engage in management and policy, and ensuring that decisions are made with the best available science. Amanda received her PhD in Zoology from the University of Washington."
-    img = "images/amanda.jpg"
-    email = "amanda.stanley@compassscicomm.org"
-    twitter = "https://twitter.com/AmandaConsSci"
-    linkedin = "https://www.linkedin.com/in/amanda-stanley-64167211/"
-    website = "https://www.compassscicomm.org/"
-
-  [[params.team.item]]
     name = "Dr. Jodie Toft"
     position = "Puget Sound Restoration Fund"
     description = "Dr. Toft is the Deputy Director of the Puget Sound Restoration Fund, where she advances their science, expands partnerships, and builds support for their unique brand of in-water restoration. Prior to joining PSRF, Jodie worked at The Nature Conservancy and The Natural Capital Project. Jodie received her PhD in Aquatic & Fishery Sciences from the University of Washington."
@@ -136,6 +96,46 @@ title = "SAFS GSS Panel"
     twitter = "https://twitter.com/svignieri"
     linkedin = "https://www.linkedin.com/in/sachavignieri/"
     website = "https://science.sciencemag.org/"
+
+  [[params.team.item]]
+    name = "Ms. Jennifer Scheuerell"
+    position = "Sound Data Management"
+    description = "Ms. Scheuerell is the owner of Sound Data Management, a small consulting company that designs, builds, and runs custom information systems for clients in science and engineering. Her business specializes in developing \"front to back\" solutions using a wide range of software and hardware. Her team comprises a diverse group of individuals from the US (WA, CO), Spain, and Australia. Jennifer received her MS in Aquatic & Fishery Sciences from the University of Washington."
+    img = "images/jennifer.jpg"
+    email = "jennifer@sound-data.com"
+    twitter = "https://twitter.com/sound_data_"
+    linkedin = "https://www.linkedin.com/in/jennifer-scheuerell-45887021/"
+    website = "http://hydra3.sound-data.com/about/"
+
+  [[params.team.item]]
+    name = "Dr. Melissa Poe"
+    position = "Washington Sea Grant"
+    description = "Dr. Poe leads the social science program at Washington Sea Grant. She works with communities to address the social and cultural dimensions of Pacific Northwest marine ecosystems with a current focus on ocean change, food systems, and integrating local and indigenous knowledge in ecosystem-based management. Melissa received her PhD in Environmental Anthropology from the University of Washington."
+    img = "images/melissa.jpg"
+    email = "mpoe@uw.edu"
+    twitter = "https://twitter.com/mpoetree"
+    linkedin = "https://www.linkedin.com/in/melissa-r-poe-033aaa2b/"
+    website = "https://wsg.washington.edu/about-wsg/staff-dir/melissa-poe/"
+
+  [[params.team.item]]
+    name = "Dr. Beth Sanderson"
+    position = "National Marine Fisheries Service"
+    description = "Dr. Sanderson leads the Ecosystem Analysis Program at the Northwest Fisheries Science Center, where she oversees a variety of research projects related to the conservation of threatened and endangered species, effects of non-native species, and use of shellfish aquaculture sites by marine fauna. Beth received her PhD in Zoology from the University of Wisconsin-Madison."
+    img = "images/beth.jpg"
+    email = "beth.sanderson@noaa.gov"
+    twitter = "https://twitter.com/SandersonBeth"
+    linkedin = "https://www.linkedin.com/in/beth-sanderson-90305a95/"
+    website = "https://www.nwfsc.noaa.gov/contact/display_staffprofile.cfm?staffid=540"
+
+  [[params.team.item]]
+    name = "Dr. Amanda Stanley"
+    position = "COMPASS"
+    description = "In her role as Executive Director of COMPASS, Dr. Stanley provides leadership to scientists looking to effectively share their knowledge in public discourse and decision-making. Prior to joining COMPASS, Amanda was the Conservation Science Program Officer at Wilburforce Foundation, a private philanthropic organization that supports land, water and wildlife conservation efforts in western north america. Amanda received her PhD in Zoology from the University of Washington."
+    img = "images/amanda.jpg"
+    email = "amanda.stanley@compassscicomm.org"
+    twitter = "https://twitter.com/AmandaConsSci"
+    linkedin = "https://www.linkedin.com/in/amanda-stanley-64167211/"
+    website = "https://www.compassscicomm.org/"
 
   [[params.team.item]]
     name = "Dr. Mark Scheuerell"
