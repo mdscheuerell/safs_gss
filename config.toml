@@ -140,7 +140,7 @@ title = "SAFS GSS Panel"
   [[params.team.item]]
     name = "Dr. Mark Scheuerell"
     position = "Panel moderator"
-    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences, and the assistant leader of the Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). Prior to joining the UW and WACFWRU, Mark spent 16 years as a research biologist with the National Marine Fisheries Service. He received his PhD in Zoology from the University of Washington."
+    description = "Dr. Scheuerell is an associate professor in the School of Aquatic and Fishery Sciences, and the assistant leader of the Washington Cooperative Fish and Wildlife Research Unit (WACFWRU). Prior to joining UW and the WACFWRU, Mark spent 16 years as a research biologist with the National Marine Fisheries Service. He received his PhD in Zoology from the University of Washington."
     img = "images/mark.jpg"
     email = "scheuerl@uw.edu"
     twitter = "https://twitter.com/mark_scheuerell"
